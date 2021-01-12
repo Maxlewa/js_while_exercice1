@@ -1,9 +1,9 @@
 // EXO 1
 
-// let chiffre = parseInt(prompt("Chiffre ?"))
+// let nb = parseInt(prompt("Nombre ?"))
 // let compt = 0
 
-// while (compt <= chiffre) {
+// while (compt <= nb) {
 //     console.log(compt);
 //     compt++
 // }
@@ -12,23 +12,31 @@
 
 // 1
 
-// let tour = 0
+// let arret = 4
+// let compt2 = 0
 
-// while (tour <= 10) {
-//     console.log(tour);
-//     tour++
+// while (compt2 <= arret) {
+//     console.log(compt2);
+//     compt2++
 // }
 
-// let tour = 3
+// 2
 
-// while (tour <= 6) {
-//     console.log(tour);
-//     tour ++
+// let arret = 6
+// let compt2 = 3
+
+// while (compt2 <= arret) {
+//     console.log(compt2);
+//     compt2++
 // }
 
-let tour = 0
+// 3
 
-while (tour <= 20) {
-    console.log(tour);
-    tour += 2
+
+let arret = 8
+let compt2 = 0
+
+while (compt2 <= arret) {
+    console.log(compt2);
+    compt2 += 2;
 }
